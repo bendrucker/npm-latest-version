@@ -1,0 +1,41 @@
+{
+  "name": "npm-latest-version",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Get the latest dist tag version for an npm package",
+  "license": "MIT",
+  "repository": "bendrucker/npm-latest-version",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "npm",
+    "latest",
+    "version",
+    "dist",
+    "tag"
+  ],
+  "dependencies": {
+    "dot-prop": "~2.2.0",
+    "got": "~3.2.0",
+    "registry-url": "~3.0.3",
+    "xtend": "~4.0.0"
+  },
+  "devDependencies": {
+    "random-int": "~1.0.0",
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js",
+    "readme.md"
+  ]
+}
