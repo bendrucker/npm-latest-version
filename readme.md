@@ -1,6 +1,6 @@
-# npm-latest-version [![Build Status](https://travis-ci.org/bendrucker/npm-latest-version.svg?branch=master)](https://travis-ci.org/bendrucker/npm-latest-version)
+# [deprecated] npm-latest-version [![Build Status](https://travis-ci.org/bendrucker/npm-latest-version.svg?branch=master)](https://travis-ci.org/bendrucker/npm-latest-version)
 
-Use [latest-version](https://github.com/sindresorhus/latest-version) instead
+Deprecated. Use [latest-version](https://github.com/sindresorhus/latest-version) instead.
 
 > Get the latest dist tag version for an npm package
 
