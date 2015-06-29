@@ -1,7 +1,7 @@
 {
   "name": "npm-latest-version",
   "main": "index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the latest dist tag version for an npm package",
   "license": "MIT",
   "repository": "bendrucker/npm-latest-version",
