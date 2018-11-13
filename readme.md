@@ -1,4 +1,4 @@
-# [deprecated] npm-latest-version [![Build Status](https://travis-ci.org/bendrucker/npm-latest-version.svg?branch=master)](https://travis-ci.org/bendrucker/npm-latest-version)
+# [deprecated] npm-latest-version [![Build Status](https://travis-ci.org/bendrucker/npm-latest-version.svg?branch=master)](https://travis-ci.org/bendrucker/npm-latest-version) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/npm-latest-version.svg)](https://greenkeeper.io/)
 
 Deprecated. Use [latest-version](https://github.com/sindresorhus/latest-version) instead.
 
